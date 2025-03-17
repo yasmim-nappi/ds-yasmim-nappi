@@ -1,4 +1,4 @@
-class Tiposvariaveis{
+public class Tiposvariaveis{
     public static void main(String[] args) {
         float deci = 3.40f;
         double deciMajor = 124.507908d;
@@ -13,5 +13,6 @@ class Tiposvariaveis{
         System.out.println(deciMajor + deci);
         System.out.println(deci + numMinor);
         System.out.println(num + deciMajor);
+        System.out.println(quote + deciMajor + num + numUltraMajor + magia + numMinor + soulinda + deci);
     }
 }
